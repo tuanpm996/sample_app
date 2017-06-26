@@ -1,0 +1,15 @@
+one:
+  follower: michu
+  followed: lana
+
+two:
+  follower: michu
+  followed: malory
+
+three:
+  follower: lana
+  followed: michu
+
+four:
+  follower: archer
+  followed: michu
